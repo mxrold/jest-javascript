@@ -1,0 +1,31 @@
+{
+  "name": "jest-javascript",
+  "version": "1.0.0",
+  "description": "Unit test with Jest and Javasript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxrold/jest-javascript.git"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "unit",
+    "testing"
+  ],
+  "author": "Martin Roldan <martinroldan889@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxrold/jest-javascript/issues"
+  },
+  "homepage": "https://github.com/mxrold/jest-javascript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.0.6",
+    "jest": "^27.0.6"
+  }
+}
