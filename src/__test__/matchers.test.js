@@ -22,6 +22,6 @@ describe('Comparadores comunes', () => {
     })
 
     test('Los objetos no son iguales', () => {
-        expect(cities).not.toEqual(cities2)
+        expect(cities).toEqual(cities2)
     })
 })
