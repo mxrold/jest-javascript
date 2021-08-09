@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test snapshot Always failed the snapshot 1`] = `
+Object {
+  "createAt": 2021-08-07T15:13:38.675Z,
+  "id": 15,
+}
+`;
+
+exports[`Test snapshot Snapshot 1`] = `
+Object {
+  "gender": "Male",
+  "id": 1,
+  "name": "Rick Sanches",
+  "species": "Human",
+  "status": "Alive",
+}
+`;
+
+exports[`Test snapshot We have an exception 1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "Martin Roldan",
+}
+`;
